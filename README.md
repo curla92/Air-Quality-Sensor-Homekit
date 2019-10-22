@@ -7,7 +7,7 @@
 )](https://github.com/curla92/Air-Quality-Sensor-Homeki/releases) [![Donate](https://img.shields.io/badge/Donate-PayPal-blue)](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=WKPEBA4PLFKXU&source=url) 
 
 A firmware for ESP8266 to read primarily CO and CO2 values in the air. 
-In eve also available the reading of Ammonium, Alcohol and Toluene.
+In eve also available the readings of Ammonium, Alcohol and Toluene.
 
 **Hardware**
 
