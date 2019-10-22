@@ -6,8 +6,8 @@
 )](https://github.com/curla92/Air-Quality-Sensor-Homeki/releases) [![Latest](https://img.shields.io/github/v/tag/curla92/Air-Quality-Sensor-Homeki?color=green&label=Latest%20Release
 )](https://github.com/curla92/Air-Quality-Sensor-Homeki/releases) [![Donate](https://img.shields.io/badge/Donate-PayPal-blue)](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=WKPEBA4PLFKXU&source=url) 
 
-A firmware for ESP8266 to control a simple lightbulb or led. 
-You can control the brightness and set different seconds of fade effect.
+A firmware for ESP8266 to read primarily CO and CO2 values in the air. 
+In eve also available the reading of Ammonium, Alcohol and Toluene.
 **WiKi**
 
 *Go to the [Wiki]() to config.*
