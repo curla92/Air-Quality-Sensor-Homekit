@@ -8,6 +8,13 @@
 
 A firmware for ESP8266 to read primarily CO and CO2 values in the air. 
 In eve also available the reading of Ammonium, Alcohol and Toluene.
+
+**Hardware**
+
+- MQ135 Air Quality Sensor;
+- DHT22;
+- Simple Led;
+
 **WiKi**
 
 *Go to the [Wiki]() to config.*
@@ -17,7 +24,7 @@ In eve also available the reading of Ammonium, Alcohol and Toluene.
 277-66-227
 ```
 
-<a><img src="" alt="homekit-setpup-code" border="0"></a>
+<a><img src="https://i.ibb.co/6FddVG9/qrcode.png" alt="homekit-setpup-code" border="0"></a>
 
 The project is based on accessory server library ESP-HomeKit from [@MaximKulkin](https://github.com/MaximKulkin) for ESP-OPEN-RTOS.
 Also it uses the OTA update system [Life-Cycle-Manager (LCM)](https://github.com/HomeACcessoryKid/life-cycle-manager) from [@HomeACcessoryKid](https://github.com/HomeACcessoryKid).
