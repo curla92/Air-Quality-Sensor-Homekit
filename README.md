@@ -17,7 +17,7 @@ In eve also available the readings of Ammonium, Alcohol and Toluene.
 
 **WiKi**
 
-*Go to the [Wiki]() to config.*
+*Go to the [Wiki](https://github.com/curla92/Air-Quality-Sensor-Homekit/wiki/EVE-CONFIG) to config.*
 
 **Homekit Setup Code is :**
 ```
