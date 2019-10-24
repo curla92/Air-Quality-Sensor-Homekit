@@ -2,9 +2,9 @@
 
 # Air Quality Sensor Homekit by Homekit Italia Group
 
-[![Download](https://img.shields.io/github/downloads/curla92/Air-Quality-Sensor-Homeki/total?color=red
-)](https://github.com/curla92/Air-Quality-Sensor-Homeki/releases) [![Latest](https://img.shields.io/github/v/tag/curla92/Air-Quality-Sensor-Homeki?color=green&label=Latest%20Release
-)](https://github.com/curla92/Air-Quality-Sensor-Homeki/releases) [![Donate](https://img.shields.io/badge/Donate-PayPal-blue)](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=WKPEBA4PLFKXU&source=url) 
+[![Download](https://img.shields.io/github/downloads/curla92/Air-Quality-Sensor-Homekit/total?color=red
+)](https://github.com/curla92/Air-Quality-Sensor-Homekit/releases) [![Latest](https://img.shields.io/github/v/tag/curla92/Air-Quality-Sensor-Homekit?color=green&label=Latest%20Release
+)](https://github.com/curla92/Air-Quality-Sensor-Homekit/releases) [![Donate](https://img.shields.io/badge/Donate-PayPal-blue)](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=WKPEBA4PLFKXU&source=url) 
 
 A firmware for ESP8266 to read primarily CO and CO2 values in the air. 
 In eve also available the readings of Ammonium, Alcohol and Toluene.
