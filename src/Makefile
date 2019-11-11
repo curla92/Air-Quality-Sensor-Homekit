@@ -6,7 +6,7 @@ EXTRA_COMPONENTS = \
 	extras/http-parser \
 	extras/rboot-ota \
 	$(abspath ../lib/esp-adv-button) \
-    $(abspath ../lib/esp-led-codes)\
+        $(abspath ../lib/esp-led-codes)\
 	$(abspath ../components/esp-8266/esp-wifi-config) \
 	$(abspath ../components/esp-8266/esp-cjson) \
 	$(abspath ../components/common/esp-wolfssl) \
