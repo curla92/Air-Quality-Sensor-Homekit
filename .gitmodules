@@ -10,3 +10,6 @@
 [submodule "components/common/esp-wolfssl"]
 	path = components/common/esp-wolfssl
 	url = https://github.com/maximkulkin/esp-wolfssl.git
+[submodule "lib/esp-adv-button"]
+	path = lib/esp-adv-button
+	url = https://github.com/RavenSystem/esp-adv-button.git
